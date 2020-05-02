@@ -1,0 +1,15 @@
+
+== PRODUCT DETAILS ==
+Product Name: a
+Number: 1
+
+Product Supplier: a
+Supplier Contact: 3
+
+Reorder Treshold: 2
+Amount of Units: 3
+Price per Unit: 3.00
+
+Department: Office
+Reorder Month: Not Specified
+Authoriser: Department Manager
